@@ -2,6 +2,7 @@
 
 This repository showcases examples of labs built with Instruqt's new HCL definition format. These labs demonstrate the range of possibilities with the new HCL-based lab definitions - from simple container setups to complex cloud integrations. Each example is self-contained and focuses on specific features of the platform, providing patterns you can use when creating your own labs.
 
+
 ## Example Labs
 
 | Lab | Description | Key Features |
